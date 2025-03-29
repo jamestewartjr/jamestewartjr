@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello 👋
 
 > A technologist focused on solving my own problems and enjoying the adventure!
 
