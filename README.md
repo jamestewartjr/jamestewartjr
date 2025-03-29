@@ -3,7 +3,7 @@
 > A technologist focused on solving my own problems and enjoying the adventure!
 
 - 🔭 Read about what I am currently working on:
-  - (My blog)[https://www.jamestewartjr.com/blog]
+  - [My blog](https://www.jamestewartjr.com/blog)
 
 - 🌱 I'm currently learning:
   - Advanced AI pair programming techniques
