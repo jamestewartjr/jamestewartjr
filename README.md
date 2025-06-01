@@ -1,16 +1,11 @@
-# Hello 👋
+# Hi 👋
 
-> A technologist focused on solving my own problems and enjoying the adventure!
+### I'm James Stewart Jr. — a Charlotte-based software engineer at Lowe's, specializing in building flexible, reusable interfaces. I'm excited about integrating AI into web development, focusing on prompt engineering and modular design.
 
 - 🔭 Read about what I am currently working on:
   - [My blog](https://www.jamestewartjr.com/blog)
 
 - 🌱 I'm currently learning:
-  - Advanced AI pair programming techniques
-  - Video content creation with AI support
+  - AI development
   - Content repurposing workflows
-
-- ⚡ Recent Achievements (March 2025):
-  - Created my first blog-to-video transformation workflow
-  - Developed a structured approach to AI pair programming
-  - Migrated to Next.js 
+  - Gen UI
